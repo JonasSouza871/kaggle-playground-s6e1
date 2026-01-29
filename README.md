@@ -68,7 +68,6 @@ To further improve the results and create a more generalized model, I combined t
 - **Simple Ensemble**: This approach consists of calculating the arithmetic mean of the predictions. It is effective when the models have similar performance.
   - `Prediction = (XGB_pred + LGBM_pred + CAT_pred) / 3`
 - **Weighted Ensemble**: This method assigns a different weight to each model's prediction based on its individual performance. The weights were calculated as the inverse of the CV RMSE score, giving more importance to models with lower error.
-  - `weight_i = 1 / CV_RMSE_i`
   - `Prediction = Σ(weight_i * pred_i) / Σ(weight_i)`
 - **Final Model Weights**: The final weighted ensemble uses the following weights based on model performance:
   - `peso_xgb = 0.5`
@@ -187,7 +186,6 @@ Para melhorar ainda mais os resultados e criar um modelo mais generalista, combi
 - **Ensemble Simples**: Essa abordagem consiste em calcular a média aritmética das previsões. É eficaz quando os modelos têm desempenho semelhante.
   - `Previsão = (XGB_pred + LGBM_pred + CAT_pred) / 3`
 - **Ensemble Ponderado**: Este método atribui um peso diferente à previsão de cada modelo com base em seu desempenho individual. Os pesos foram calculados como o inverso do score RMSE da CV, dando mais importância aos modelos com menor erro.
-  - `peso_i = 1 / CV_RMSE_i`
   - `Previsão = Σ(peso_i * pred_i) / Σ(peso_i)`
 - **Pesos Finais do Modelo**: O ensemble ponderado final usa os seguintes pesos baseados no desempenho do modelo:
   - `peso_xgb = 0.5`
