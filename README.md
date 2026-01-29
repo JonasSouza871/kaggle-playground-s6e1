@@ -22,7 +22,35 @@
 
 ## Objective
 
-The main objective of this project is to develop a robust machine learning model to predict student performance based on a variety of demographic, socio-economic, and school-related features. This repository documents the complete methodology, from exploratory analysis to the final ensemble model, created for the [Kaggle Playground Series - Season 6, Episode 1](https://www.kaggle.com/competitions/playground-series-s4e6).
+The main objective of this project is to develop a robust machine learning model to predict student performance based on a variety of demographic, socio-economic, and school-related features. The goal is to achieve the lowest possible Root Mean Square Error (RMSE), which serves as the evaluation metric for the [Kaggle Playground Series - Season 6, Episode 1](https://www.kaggle.com/competitions/playground-series-s6e1) competition.
+
+The RMSE is calculated using the following formula:
+
+$$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
+
+Where:
+- $ n $ is the number of observations
+- $ y_i $ is the actual value
+- $ \hat{y}_i $ is the predicted value
+
+This repository documents the complete methodology, from exploratory analysis to the final ensemble model.
+
+## Project Visualizations
+
+<div align="center">
+  <img src="Images/metodology.jpg" width="600" alt="Project Methodology Flowchart" title="Methodology Flowchart"/>
+  <p><em>Project Methodology Flowchart</em></p>
+</div>
+
+<div align="center">
+  <img src="Images/Exploratory_Data_Analysis.png" width="600" alt="Exploratory Data Analysis" title="EDA Visualization"/>
+  <p><em>Exploratory Data Analysis</em></p>
+</div>
+
+<div align="center">
+  <img src="Images/Correlation_Matrix.png" width="600" alt="Correlation Matrix" title="Features Correlation Matrix"/>
+  <p><em>Correlation Matrix</em></p>
+</div>
 
 ## Detailed Methodology
 
@@ -123,7 +151,35 @@ The repository is organized for clarity and ease of navigation:
 
 ## Objetivo
 
-O objetivo principal deste projeto é desenvolver um modelo de machine learning robusto para prever o desempenho de estudantes com base em uma variedade de características demográficas, socioeconômicas e escolares. Este repositório documenta a metodologia completa, desde a análise exploratória até o modelo final de ensemble, criado para a [Kaggle Playground Series - Season 6, Episode 1](https://www.kaggle.com/competitions/playground-series-s4e6).
+O objetivo principal deste projeto é desenvolver um modelo de machine learning robusto para prever o desempenho de estudantes com base em uma variedade de características demográficas, socioeconômicas e escolares. O objetivo é obter o menor Root Mean Square Error (RMSE) possível, que serve como métrica de avaliação para a competição [Kaggle Playground Series - Season 6, Episode 1](https://www.kaggle.com/competitions/playground-series-s6e1).
+
+O RMSE é calculado usando a seguinte fórmula:
+
+$$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$
+
+Onde:
+- $ n $ é o número de observações
+- $ y_i $ é o valor real
+- $ \hat{y}_i $ é o valor previsto
+
+Este repositório documenta a metodologia completa, desde a análise exploratória até o modelo final de ensemble.
+
+## Visualizações do Projeto
+
+<div align="center">
+  <img src="Images/metodology.jpg" width="600" alt="Fluxograma da Metodologia do Projeto" title="Fluxograma da Metodologia"/>
+  <p><em>Fluxograma da Metodologia do Projeto</em></p>
+</div>
+
+<div align="center">
+  <img src="Images/Exploratory_Data_Analysis.png" width="600" alt="Análise Exploratória de Dados" title="Visualização da EDA"/>
+  <p><em>Análise Exploratória de Dados</em></p>
+</div>
+
+<div align="center">
+  <img src="Images/Correlation_Matrix.png" width="600" alt="Matriz de Correlação" title="Matriz de Correlação das Features"/>
+  <p><em>Matriz de Correlação</em></p>
+</div>
 
 ## Metodologia Detalhada
 
