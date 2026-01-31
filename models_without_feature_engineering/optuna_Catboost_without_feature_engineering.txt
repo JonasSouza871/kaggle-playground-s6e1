@@ -1,0 +1,37 @@
+[I 2026-01-29 20:58:19,201] Trial 0 finished with value: 8.756806573763289 and parameters: {'iterations': 2414, 'depth': 3, 'learning_rate': 0.26505031682304914, 'subsample': 0.859626637249842}. Best is trial 0 with value: 8.756806573763289.
+[I 2026-01-29 20:59:35,404] Trial 1 finished with value: 8.789654021971574 and parameters: {'iterations': 442, 'depth': 6, 'learning_rate': 0.09972715701772773, 'subsample': 0.8095517525277187}. Best is trial 0 with value: 8.756806573763289.
+[I 2026-01-29 21:04:28,288] Trial 2 finished with value: 8.769959836461847 and parameters: {'iterations': 1371, 'depth': 7, 'learning_rate': 0.20774736766805324, 'subsample': 0.9817590516648177}. Best is trial 0 with value: 8.756806573763289.
+[I 2026-01-29 21:08:09,876] Trial 3 finished with value: 8.750589465913148 and parameters: {'iterations': 1297, 'depth': 5, 'learning_rate': 0.24257196159477265, 'subsample': 0.9999638080750218}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:12:07,924] Trial 4 finished with value: 8.835791482503515 and parameters: {'iterations': 1596, 'depth': 4, 'learning_rate': 0.012971837194298813, 'subsample': 0.9973794268097229}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:19:26,809] Trial 5 finished with value: 8.804523071732792 and parameters: {'iterations': 1250, 'depth': 10, 'learning_rate': 0.09365809305368968, 'subsample': 0.6532345516131809}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:30:07,761] Trial 6 finished with value: 8.812691524847901 and parameters: {'iterations': 1681, 'depth': 10, 'learning_rate': 0.08956083183469768, 'subsample': 0.7612258264349959}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:33:27,573] Trial 7 finished with value: 8.774710782088949 and parameters: {'iterations': 1052, 'depth': 7, 'learning_rate': 0.04977816827374665, 'subsample': 0.7953710176354327}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:37:57,931] Trial 8 finished with value: 8.759801550062303 and parameters: {'iterations': 2189, 'depth': 4, 'learning_rate': 0.12935064321982262, 'subsample': 0.6923428947606864}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:41:05,639] Trial 9 finished with value: 8.797662590539371 and parameters: {'iterations': 1842, 'depth': 3, 'learning_rate': 0.06916630164125584, 'subsample': 0.6073984240046356}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:43:08,700] Trial 10 finished with value: 8.758852508653002 and parameters: {'iterations': 680, 'depth': 6, 'learning_rate': 0.2826039775623711, 'subsample': 0.9142246511507465}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:48:05,692] Trial 11 finished with value: 8.75611254077069 and parameters: {'iterations': 2498, 'depth': 3, 'learning_rate': 0.27307663222849615, 'subsample': 0.8950351541261912}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:50:19,143] Trial 12 finished with value: 8.759088768959113 and parameters: {'iterations': 823, 'depth': 5, 'learning_rate': 0.2038951147836635, 'subsample': 0.9299957094215511}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 21:55:29,564] Trial 13 finished with value: 8.75430993520406 and parameters: {'iterations': 1959, 'depth': 5, 'learning_rate': 0.22731069278360375, 'subsample': 0.9173620005219723}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 22:00:55,006] Trial 14 finished with value: 8.751906636665785 and parameters: {'iterations': 2003, 'depth': 5, 'learning_rate': 0.2051802626693251, 'subsample': 0.9559382608724416}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 22:06:24,923] Trial 15 finished with value: 8.777419266319413 and parameters: {'iterations': 1394, 'depth': 8, 'learning_rate': 0.16233959978563955, 'subsample': 0.9637289545035342}. Best is trial 3 with value: 8.750589465913148.
+[I 2026-01-29 22:11:43,953] Trial 16 finished with value: 8.750348585713905 and parameters: {'iterations': 2057, 'depth': 5, 'learning_rate': 0.17688060263754737, 'subsample': 0.8569651864139257}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:12:49,777] Trial 17 finished with value: 8.776582966241724 and parameters: {'iterations': 297, 'depth': 8, 'learning_rate': 0.1726854251529047, 'subsample': 0.8319564875524051}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:14:49,168] Trial 18 finished with value: 8.778187538196478 and parameters: {'iterations': 930, 'depth': 4, 'learning_rate': 0.13838152118944652, 'subsample': 0.7498929427337618}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:18:14,353] Trial 19 finished with value: 8.760758748292247 and parameters: {'iterations': 1155, 'depth': 6, 'learning_rate': 0.24340057002671645, 'subsample': 0.8646318912227445}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:25:52,903] Trial 20 finished with value: 8.92140311958471 and parameters: {'iterations': 2203, 'depth': 8, 'learning_rate': 0.2981764393661125, 'subsample': 0.7413043909670487}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:31:23,610] Trial 21 finished with value: 8.750593732025242 and parameters: {'iterations': 2016, 'depth': 5, 'learning_rate': 0.18432474612085328, 'subsample': 0.953532612089498}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:35:39,821] Trial 22 finished with value: 8.751507528884453 and parameters: {'iterations': 1572, 'depth': 5, 'learning_rate': 0.17962112500856833, 'subsample': 0.9452040111092623}. Best is trial 16 with value: 8.750348585713905.
+[I 2026-01-29 22:40:59,165] Trial 23 finished with value: 8.749753279141249 and parameters: {'iterations': 2168, 'depth': 4, 'learning_rate': 0.24330737749790943, 'subsample': 0.9987508248711917}. Best is trial 23 with value: 8.749753279141249.
+[I 2026-01-29 22:46:38,376] Trial 24 finished with value: 8.749554956764722 and parameters: {'iterations': 2312, 'depth': 4, 'learning_rate': 0.2334098739403034, 'subsample': 0.9992767868427231}. Best is trial 24 with value: 8.749554956764722.
+
+============================================================
+OPTIMIZATION RESULTS
+============================================================
+Best RMSE (CV mean): 8.7496
+
+Best parameters found:
+  iterations: 2312
+  depth: 4
+  learning_rate: 0.2334098739403034
+  subsample: 0.9992767868427231
+============================================================
